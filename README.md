@@ -4,11 +4,7 @@
     </a>
 </p>
 
-<br></br>
-
 My name is Mathews Martins (you can call me **PQPMath3ws** too, if you prefer), I have 23 years old, my zodiac sign is *sagittarius* and I am a brazilian person who loves the <code>technology and development/programming/coding</code>.
-
-<br></br>
 
 **Some things about me:**
 
@@ -23,6 +19,8 @@ My name is Mathews Martins (you can call me **PQPMath3ws** too, if you prefer), 
 - I'm big fan of a geek/nerd culture. 🤙
 
 - And you can know more about me [here](https://github.com/PQPMath3ws/pqpmath3ws/issues) 👍
+
+<br></br>
 
 **Some status of my GitHub Profile:**
 
