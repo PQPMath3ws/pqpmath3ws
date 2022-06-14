@@ -20,7 +20,6 @@ My name is Mathews Martins (you can call me **PQPMath3ws** too, if you prefer), 
 
 - And you can know more about me [here](https://github.com/PQPMath3ws/pqpmath3ws/issues) 👍
 
-<br></br>
 
 **Some status of my GitHub Profile:**
 
