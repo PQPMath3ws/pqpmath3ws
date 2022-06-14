@@ -24,9 +24,13 @@ My name is Mathews Martins (you can call me **PQPMath3ws** too, if you prefer), 
 **Some status of my GitHub Profile:**
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=pqpmath3ws&show_icons=true&count_private=true&theme=jolly&include_all_commits=true"></img>
+    <a href="https://github.com/PQPMath3ws">
+        <img src="https://github-readme-stats.vercel.app/api?username=pqpmath3ws&show_icons=true&count_private=true&theme=jolly&include_all_commits=true"></img>
+    </a>
 </p>
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pqpmath3ws&count_private=true&theme=jolly&include_all_commits=true"></img>
+    <a href="https://github.com/PQPMath3ws">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pqpmath3ws&count_private=true&theme=jolly&include_all_commits=true"></img>
+    </a>
 </p>
