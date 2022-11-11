@@ -61,6 +61,6 @@ My name is Mathews Martins (you can call me **PQPMath3ws** too, if you prefer), 
 
 <p align="left">
     <a href="https://github.com/PQPMath3ws">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pqpmath3ws&count_private=true&theme=jolly&count=10&include_all_commits=true"></img>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pqpmath3ws&count_private=true&theme=jolly&langs_count=10&include_all_commits=true"></img>
     </a>
 </p>
