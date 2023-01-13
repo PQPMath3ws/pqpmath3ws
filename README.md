@@ -101,13 +101,13 @@
 <br>
 
 <div>
-    <a href="https://github.com/PQPMath3ws"><img src="https://github-readme-stats.vercel.app/api?username=pqpmath3ws&show_icons=true&count_private=true&theme=jolly&include_all_commits=true" /></a>
+    <a href="https://github.com/PQPMath3ws"><img src="https://github-readme-stats-forked-topaz.vercel.app/api?username=pqpmath3ws&show_icons=true&count_private=true&theme=jolly&exclude_repo=github-readme-stats-forked&include_all_commits=true" /></a>
 </div>
 
 <br>
 
 <div>
-    <a href="https://github.com/PQPMath3ws"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pqpmath3ws&count_private=true&theme=jolly&langs_count=10&include_all_commits=true" /></a>
+    <a href="https://github.com/PQPMath3ws"><img src="https://github-readme-stats-forked-topaz.vercel.app/api/top-langs/?username=pqpmath3ws&count_private=true&theme=jolly&langs_count=10&include_all_commits=true&hide=PHP,TSQL,C%2B%2B,Smarty" /></a>
 </div>
 
 <br>
