@@ -8,27 +8,27 @@
 
 <br>
 
-<p>Meu nome é Mathews Martins (pode me chamar de <b>PQPMath3ws</b> também, se preferir), eu tenho 24 anos, meu signo é <b><i>sagitário</i></b> e eu sou um brasileiro que ama a <code>tecnologia e o desenvolvimento/programação/codar</code>.</p>
+<p>My name is Mathews Martins (you can call me <b>PQPMath3ws</b> too, if you prefer), I have 24 years old, my zodiac sign is <b><i>sagittarius</i></b> and I am a brazilian person who loves the <code>technology and development/programming/coding</code>.</p>
 
 <br>
 
-<p style="font-size: 200;"><b>📝 Algumas coisas sobre mim:</b></p>
+<p style="font-size: 200;"><b>📝 Some things about me:</b></p>
 
-- Sou um dos poucos developers/desenvolvedores full stack que não gostam de café ☕⛔
+- I'm the one of the few full stack brazilian developers who don't like coffee ☕⛔
 
-- Eu amo codar e estudar novas tecnologias e linguagens de programação 👨‍💻
+- I love coding and study new technologies and programming languages 👨‍💻
 
-- Um dos meus hobbies é trabalhar com música (tocar, produzir ou estudar sobre) 🎶
+- One of my hobbies is work with music (play, produce or study about) 🎶
 
-- Eu tenho ásperger (autismo leve), que me ajuda bastante no meu trabalho (diferente, né?) 🤓
+- I have ASD Level 1, which helps me much in my job (different, right?) 🤓
 
-- Sou um grande fã da cultura geek/nerd. 🤙
+- I'm big fan of a geek/nerd culture. 🤙
 
-- E você pode perguntar/saber um pouco mais sobre mim [aqui](https://github.com/PQPMath3ws/pqpmath3ws/issues) 👍
+- And you can know more about me [here](https://github.com/PQPMath3ws/pqpmath3ws/issues) 👍
 
 <br>
 
-<p><b>⚔️ Algumas linguagens que já trabalhei/trabalho:</b></p>
+<p><b>⚔️ Some languages i've worked/working:</b></p>
 
 <div style="display: flex; flex-direction: column;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" />
@@ -46,7 +46,7 @@
 
 <br>
 
-<p><b>⚔🎯 Algumas tecnologias que eu trabalhei/trabalho:</b></p>
+<p><b>⚔🎯 Some technologies i've worked/working:</b></p>
 
 <div style="display: flex; flex-direction: column;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="42" height="42" />
@@ -72,7 +72,7 @@
 
 <br>
 
-<p><b>⚔🎯 Consigo trabalhar atualmente com:</b></p>
+<p><b>⚔🎯 What I can work with:</b></p>
 
 <div style="display: flex; flex-direction: column;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="42" height="42" />
@@ -92,7 +92,7 @@
 
 <br>
 
-<p><b>🏆 Alguns status do meu Perfil:</b></p>
+<p><b>🏆 Some status of my Profile:</b></p>
 
 <div>
     <a href="https://tryhackme.com/p/PQPMath3ws"><img src="https://tryhackme-badges.s3.amazonaws.com/PQPMath3ws.png" alt="TryHackMe"></a>
