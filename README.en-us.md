@@ -107,7 +107,7 @@
 <br>
 
 <div>
-    <a href="https://github-readme-stats-forked-topaz.vercel.app/api/top-langs/?username=pqpmath3ws&count_private=true&theme=jolly&langs_count=10&include_all_commits=true&hide=CSS,TSQL,Smarty,Objective%2DC" /></a>
+    <a href="https://github.com/PQPMath3ws"><img src="https://github-readme-stats-forked-topaz.vercel.app/api/top-langs/?username=pqpmath3ws&count_private=true&theme=jolly&langs_count=10&include_all_commits=true&hide=CSS,TSQL,Smarty,Objective%2DC" /></a>
 </div>
 
 <br>
