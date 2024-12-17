@@ -12,7 +12,7 @@
 
 <br>
 
-<p>Meu nome é Mathews Martins (pode me chamar de <b>PQPMath3ws</b> também, se preferir), eu tenho 25 anos, meu signo é <b><i>sagitário</i></b> e eu sou um brasileiro que ama a <code>tecnologia e o desenvolvimento/programação/codar</code>.</p>
+<p>Meu nome é Mathews Martins (pode me chamar de <b>PQPMath3ws</b> também, se preferir), eu tenho 26 anos, meu signo é <b><i>sagitário</i></b> e eu sou um brasileiro que ama a <code>tecnologia e o desenvolvimento/programação/codar</code>.</p>
 
 <br>
 
